@@ -1,0 +1,4 @@
+lessonName, studentId, score
+laravel, 1, 40,
+laravel, 2, 80,
+japanese, 1, 73,
